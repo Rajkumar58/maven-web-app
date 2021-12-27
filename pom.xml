@@ -100,7 +100,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Releases Nexus Repository</name>
-	      <url>http://13.235.90.203:8081/repository/poshtech/</url>
+	      <url>http://52.66.238.104:8081/repository/Posh-technology/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
