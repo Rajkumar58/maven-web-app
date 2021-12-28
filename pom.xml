@@ -96,11 +96,11 @@
 	
        <!-- Thank You webhook Integration   -->
 	<distributionManagement>
-	    <server>
+	    <!--  <server>
       	       <id>nexus-snapshots</id>
                <username>admin</username>
                <password>nexus</password>    
- 	    </server>
+ 	    </server>  -->
 		
 	    <repository>
 	      <id>nexus</id>
