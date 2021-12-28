@@ -96,7 +96,6 @@
 	
        <!-- Thank You webhook Integration   -->
 	<distributionManagement>
-	
 	    <server>
       	       <id>nexus-snapshots</id>
                <username>admin</username>
