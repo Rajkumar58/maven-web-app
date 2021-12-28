@@ -97,6 +97,12 @@
        <!-- Thank You webhook Integration   -->
 	<distributionManagement>
 	
+	    <server>
+      	       <id>nexus-snapshots</id>
+               <username>admin</username>
+               <password>nexus</password>    
+ 	    </server>
+		
 	    <repository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Releases Nexus Repository</name>
